@@ -1,0 +1,1 @@
+json.array! @sponsers, partial: 'sponsers/sponser', as: :sponser
